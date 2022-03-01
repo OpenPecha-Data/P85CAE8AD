@@ -1,0 +1,166 @@
+id: 85e8009c76fb4951a3dc4a9dbe036d2f
+annotation_type: index
+revision: '00001'
+annotations:
+  e764aedee9be4a288510cc5c72534a68:
+    work_id: W624FFF4B
+    span:
+      vol: 1. Nidāna
+      start: 0
+      end: 31561
+  1528a515dede49b2b5b358143838b896:
+    work_id: W2FCBC429
+    span:
+      vol: 10. Dharmabhāṇaka
+      start: 0
+      end: 14695
+  918600c20bc042d1a0463627e1a4a514:
+    work_id: WC3E8E110
+    span:
+      vol: 11. Stūpasaṃdarśana
+      start: 0
+      end: 30781
+  e6d76cca0d3d4d7193f32ef12af6850b:
+    work_id: WA51CCA44
+    span:
+      vol: 12. Utsāha
+      start: 0
+      end: 7341
+  47c2621a03d4422e933b79b7c106aeea:
+    work_id: WC49FC4EF
+    span:
+      vol: 13. Sukhavihāra
+      start: 0
+      end: 20755
+  23edad244b6d412c9c41e643d399b588:
+    work_id: WAA003095
+    span:
+      vol: 14. Bodhisattvapṛthivīvirasamudgama
+      start: 0
+      end: 19913
+  9707a62e744e49e990cb36d6e004bcdc:
+    work_id: WBD4269DF
+    span:
+      vol: 15. Tathāgatāyuṣpramāṇa
+      start: 0
+      end: 13767
+  80522f88115f437a84465b5091263167:
+    work_id: W3A9A3A3A
+    span:
+      vol: 16. Puṇyaparyāya
+      start: 0
+      end: 17131
+  390a7e7f150042d9953b0b4850ed5150:
+    work_id: W566087A5
+    span:
+      vol: 17. Anumodanāpuṇyanirdeśa
+      start: 0
+      end: 9339
+  39fc53f8a32344b89c0415b075a138ff:
+    work_id: WFF5C1C7B
+    span:
+      vol: 18. Dharmabhāṇakānuśaṃsā
+      start: 0
+      end: 20788
+  7a08d99af76749ae8321fbee73c4dc02:
+    work_id: W1889DA80
+    span:
+      vol: 19. Sadāparibhūta
+      start: 0
+      end: 11494
+  e5b5ff71cc044e09b8d01d3a9a08b376:
+    work_id: WE7BE87DF
+    span:
+      vol: 2. Upāyakauśalya
+      start: 0
+      end: 32619
+  f6a34aaf5b9a4a4290f221ddb01a230c:
+    work_id: W65202626
+    span:
+      vol: 20. Tathāgataddharyabhisaṃskāra
+      start: 0
+      end: 8631
+  ec21fb347df8435ba7acca2740fbfe8d:
+    work_id: WEA62C0EA
+    span:
+      vol: 21. Dhāraṇī
+      start: 0
+      end: 7054
+  d99f197efb7d4c67b7f261fd2f488e96:
+    work_id: WC97ACD32
+    span:
+      vol: 22. Bhaiṣajyarājapūrvayoga
+      start: 0
+      end: 21870
+  7cff21e4e66348b6b36358d88c355df3:
+    work_id: W83209FE8
+    span:
+      vol: 23. Gadgadasvara
+      start: 0
+      end: 16229
+  7d3d93fffd9045bb82761d27bf1e9439:
+    work_id: W4CC9282F
+    span:
+      vol: 24. Samantamukha
+      start: 0
+      end: 13545
+  d487d30eff164e00bb36591692a16506:
+    work_id: W9E2D5FD4
+    span:
+      vol: 25. Śubhavyūharājapūrvayoga
+      start: 0
+      end: 14905
+  e3c0fb73fa834f93807bfa211ba3b8a1:
+    work_id: WECA92EA8
+    span:
+      vol: 26. Samantabhadrotsāhana
+      start: 0
+      end: 11529
+  a74b5c22d7d547f7a9c4e4365897de90:
+    work_id: W14701C5B
+    span:
+      vol: 27. Anuparīndanā
+      start: 0
+      end: 3291
+  1d53154e4f4749d3a7918f197766f561:
+    work_id: WE432ED11
+    span:
+      vol: 3. Aupamya
+      start: 0
+      end: 41284
+  e7d7b7663e6344c18d34c8f6b2192c61:
+    work_id: W9CA14238
+    span:
+      vol: 4. Adhimukti
+      start: 0
+      end: 22048
+  019bb30b4943429bbd7159f552c76ffd:
+    work_id: W0C2476A2
+    span:
+      vol: 5. Oṣadhī
+      start: 0
+      end: 22476
+  f9e9b0a37ca04025b22356fed7fdd343:
+    work_id: WA48886B4
+    span:
+      vol: 6. Vyākaraṇa
+      start: 0
+      end: 11535
+  58e3cf03b0d143c9bd5b71a964c66a0c:
+    work_id: W7443B468
+    span:
+      vol: 7. Pūrvayoga
+      start: 0
+      end: 45330
+  5695c8ce01434c7a84ec9a8a125ed667:
+    work_id: W09923609
+    span:
+      vol: 8. Pañcabhikṣuśatavyākaraṇa
+      start: 0
+      end: 15369
+  5fd10786d2c04e8a86b1006768ce0be4:
+    work_id: WDBB0C70C
+    span:
+      vol: 9. Ānandādivyākaraṇa
+      start: 0
+      end: 8920
